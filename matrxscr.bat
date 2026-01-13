@@ -1,4 +1,4 @@
-@Echo Off & CD "%~dp0"
+echo Off & CD "%~dp0"
 cls & title Matrix Select
 	
 	Set "AlignFile=%~dpnx0"
